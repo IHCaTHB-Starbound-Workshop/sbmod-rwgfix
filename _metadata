@@ -1,0 +1,19 @@
+{
+  "author" : "isaac as THE HONEY BADGER",
+  "description" : "^#5aa9d6;AKA "this nonsense".^reset;
+
+Randomly generated weapons would sometimes generate with a space in between the handle and blade!
+
+7.78 percent of the time for daggers!!
+0.0018 precent of the time for axes!!
+Such nonsense!
+
+Anyway this mod fixes all that nonsense. The offending assets are overwritten by passable forgeries. Seriously you won't even miss the old ones.
+
+For more, click the MEGATHREAD link from the steam page.",
+  "friendlyName" : "Random Weapon Generation fix",
+  "includes" : [],
+  "name" : "RWGFIX.IHC",
+  "requires" : [],
+  "version" : "0.1"
+}
